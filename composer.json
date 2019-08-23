@@ -1,11 +1,11 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "name": "serovvitaly/lumen-api",
+    "description": "The Laravel Lumen Api Framework.",
+    "keywords": ["framework", "laravel", "lumen", "api"],
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=7.1.3",
+        "php": ">=7.2",
         "laravel/lumen-framework": "5.8.*"
     },
     "require-dev": {
